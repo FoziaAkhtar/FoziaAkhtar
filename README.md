@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**FoziaAkhtar/FoziaAkhtar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Hi, I’m Foizia Akhtar, a passionate and detail-oriented Web Developer who loves turning ideas into interactive, responsive, and user-friendly websites.
 
-Here are some ideas to get you started:
+I enjoy building modern web applications that are fast, scalable, and visually appealing. I focus on writing clean, efficient code and continuously improving my skills to stay up to date with the latest web technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 I believe in:
+
+Clean and maintainable code
+
+Responsive and accessible design
+
+Continuous learning and growth
+
+Solving real-world problems through technology
+
+I’m always excited to collaborate on creative projects and contribute to meaningful digital experiences.
+<p align="center">
+<b>This text is bold inside HTML</b><br>
+<i>And this line is italic using HTML</i>
+</p>
