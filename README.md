@@ -20,3 +20,43 @@ I’m always excited to collaborate on creative projects and contribute to meani
 <b>This text is bold inside HTML</b><br>
 <i>And this line is italic using HTML</i>
 </p>
+
+## 🚀 Projects
+
+Here are some of the projects I’ve worked on that showcase my skills and experience in web development:
+
+## 🌐 1. Responsive Portfolio Website
+
+A personal portfolio website built with modern web technologies to showcase my skills, projects, and contact information.
+Tech Used: HTML, CSS, JavaScript
+Features:
+
+Fully responsive design
+
+Smooth scrolling and animations
+
+Clean and modern UI
+
+## 🛒 2. E-Commerce Website
+
+A functional e-commerce platform with product listings, cart functionality, and checkout system.
+Tech Used: HTML, CSS, JavaScript (or React / Node.js if applicable)
+Features:
+
+Product filtering and search
+
+Add to cart functionality
+
+User-friendly interface
+
+## 📝 3. Task Management App
+
+A productivity web app that allows users to manage daily tasks efficiently.
+Tech Used: JavaScript / React
+Features:
+
+Add, edit, and delete tasks
+
+Mark tasks as complete
+
+Local storage integration
