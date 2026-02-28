@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Welcome to My GitHub Profile
 
 ## About Me
 Hi, I’m Foizia Akhtar, a passionate and detail-oriented Web Developer who loves turning ideas into interactive, responsive, and user-friendly websites.
