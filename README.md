@@ -31,11 +31,11 @@ A personal portfolio website built with modern web technologies to showcase my s
 Tech Used: HTML, CSS, JavaScript
 Features:
 
-Fully responsive design
+- Fully responsive design
 
-Smooth scrolling and animations
+- Smooth scrolling and animations
 
-Clean and modern UI
+- Clean and modern UI
 
 ## 🛒 2. E-Commerce Website
 
@@ -43,11 +43,11 @@ A functional e-commerce platform with product listings, cart functionality, and 
 Tech Used: HTML, CSS, JavaScript (or React / Node.js if applicable)
 Features:
 
-Product filtering and search
+- Product filtering and search
 
-Add to cart functionality
+- Add to cart functionality
 
-User-friendly interface
+- User-friendly interface
 
 ## 📝 3. Task Management App
 
@@ -55,8 +55,8 @@ A productivity web app that allows users to manage daily tasks efficiently.
 Tech Used: JavaScript / React
 Features:
 
-Add, edit, and delete tasks
+- Add, edit, and delete tasks
 
-Mark tasks as complete
+- Mark tasks as complete
 
-Local storage integration
+- Local storage integration
