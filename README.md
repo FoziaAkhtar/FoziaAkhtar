@@ -64,4 +64,16 @@ Features:
 - Local storage integration
 
 ---
+
+## 📫 Contact Me
+
+I'm always open to collaboration, freelance opportunities, and tech discussions.
+
+📧 Email: fozia.shah00011@gmail.com  
+💼 LinkedIn: https://linkedin.com/in/foziaakhtar  
+🌐 Portfolio: https://github.com/FoziaAkhtar 
+🐦 Twitter: https://twitter.com/foziaakhtar  
+
+✨ Feel free to reach out — I’d love to connect!
+
 ---
