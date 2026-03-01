@@ -64,6 +64,14 @@ Features:
 - Local storage integration
 
 ---
+### 📱 **Mobile Apps**
+| Project | Tech | Description |
+|---------|------|-------------|
+| **Awesome Chat App** | React Native, Firebase | Realtime chat app with authentication |
+| **Fitness Tracker** | Flutter | Track workouts, calories & progress |
+| **Weather Now** | Swift | iOS app showing live weather data |
+
+---
 
 ## 📫 Contact Me
 
