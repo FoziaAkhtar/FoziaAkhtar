@@ -74,8 +74,6 @@ I'm always open to collaboration, freelance opportunities, and tech discussions.
 🌐 Portfolio: https://github.com/FoziaAkhtar 
 🐦 Twitter: https://twitter.com/foziaakhtar  
 
-[Uploading Mobile App Development.gif alias…]()
-
 ✨ Feel free to reach out — I’d love to connect!
 
 ---
