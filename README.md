@@ -62,3 +62,6 @@ Features:
 - Mark tasks as complete
 
 - Local storage integration
+
+---
+---
