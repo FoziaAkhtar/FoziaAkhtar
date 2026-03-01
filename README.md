@@ -21,6 +21,8 @@ I’m always excited to collaborate on creative projects and contribute to meani
 <i>And this line is italic using HTML</i>
 </p>
 
+---
+
 ## 🚀 Projects
 
 Here are some of the projects I’ve worked on that showcase my skills and experience in web development:
