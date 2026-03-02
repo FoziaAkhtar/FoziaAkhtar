@@ -2,12 +2,16 @@
 
 Turning ideas into real-world web solutions with modern technologies.
 
-<p alight="center">
-  
-  <img src="https://th.bing.com/th/id/OIP._4V65DPqKOu4G-DOu3uKHQHaHa?w=178&h=180&c=7&r=0&o=7&pid=1.7&rm=3">
+<p align="center">
 
+  <img src="https://www.bleepstatic.com/content/hl-images/2021/07/13/web-development.jpg" width ="450" length="1000">
+  
+  </p>
+  
+ 
 ## 🧑‍💻 About Me
-Hi, I’m Foizia Akhtar, a passionate and detail-oriented Web Developer who loves turning ideas into interactive, responsive, and user-friendly websites.
+
+Hi, I’m Fozia Akhtar, a passionate and detail-oriented Web Developer who loves turning ideas into interactive, responsive, and user-friendly websites.
 
 I enjoy building modern web applications that are fast, scalable, and visually appealing. I focus on writing clean, efficient code and continuously improving my skills to stay up to date with the latest web technologies.
 
@@ -22,12 +26,11 @@ Continuous learning and growth
 Solving real-world problems through technology
 
 I’m always excited to collaborate on creative projects and contribute to meaningful digital experiences.
-<p align="center">
-<b>This text is bold inside HTML</b><br>
-<i>And this line is italic using HTML</i>
-</p>
 
----
+<p align="center">
+  
+# I don’t just write code — I build solutions that make an impact.---
+</p>
 
 ## 🚀 Projects
 
