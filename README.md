@@ -2,8 +2,6 @@
 
 Turning ideas into real-world web solutions with modern technologies.
 
-(https://api.dicebear.com/7.x/initials/svg?seed=YourName)
-
 ## 🧑‍💻 About Me
 Hi, I’m Foizia Akhtar, a passionate and detail-oriented Web Developer who loves turning ideas into interactive, responsive, and user-friendly websites.
 
