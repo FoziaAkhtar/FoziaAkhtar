@@ -84,11 +84,6 @@ Features:
 
 ## 🚀 My GitHub Stats
 
-![FoziaAkhtar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FoziaAkhtar&show_icons=true&theme=radical)
-
-### 💻 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FoziaAkhtar&layout=compact&theme=radical)
-
 ### 🔥 Contribution Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FoziaAkhtar&theme=radical)
 
