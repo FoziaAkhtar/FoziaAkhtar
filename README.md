@@ -2,6 +2,10 @@
 
 Turning ideas into real-world web solutions with modern technologies.
 
+<p alight="center">
+  
+  <img src="https://th.bing.com/th/id/OIP._4V65DPqKOu4G-DOu3uKHQHaHa?w=178&h=180&c=7&r=0&o=7&pid=1.7&rm=3">
+
 ## 🧑‍💻 About Me
 Hi, I’m Foizia Akhtar, a passionate and detail-oriented Web Developer who loves turning ideas into interactive, responsive, and user-friendly websites.
 
