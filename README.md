@@ -110,7 +110,7 @@ Features:
 
 I'm always open to collaboration, freelance opportunities, and tech discussions.
 
-📧 Email: fozia.shah00011@gmail.com  
+📧 Email: fozia.shah0001@gmail.com  
 💼 LinkedIn: https://linkedin.com/in/foziaakhtar  
 🌐 Portfolio: https://github.com/FoziaAkhtar 
 🐦 Twitter: https://twitter.com/foziaakhtar  
